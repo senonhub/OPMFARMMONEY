@@ -1,1 +1,262 @@
-local key=[[211049]];LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYiz="Encrypt By Yasu";WpbfyEZWgmjWZYpNnktCzjncIuZpIoMbBfuohnrHGoklQRVXysdmNflaCNLPnwppMOrjEMIiSODhrBiVMqYhUynOmragDkRuEGlAmVbOFuYVjJTiKZaZvSyYniBfaCdT=LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYi;mJaNaWjaarNiMUyrjcNqJAlWrtFVzyzyUpkYbXrPKemhilwdGgbpqxtHOBUnTdLoJiCPrbdbGxtOJCimzLqIDakMEEkbEPIYuHvmuuuqRfTIuSHVusgcnjRSXlDOMmpF=WpbfyEZWgmjWZYpNnktCzjncIuZpIoMbBfuohnrHGoklQRVXysdmNflaCNLPnwppMOrjEMIiSODhrBiVMqYhUynOmragDkRuEGlAmVbOFuYVjJTiKZaZvSyYniBfaCdT;gWHzgIzETibWKNlRHYgpFkZkGQgmUhbTTwMqOpZePJQHbJjGSilthkXzJwkCilonmeFTWuvNHILynMqiayAJtUCuyEDQXEUKqDGmJXNqbPIsrFuDPIoVzxgPOMzZBxto=mJaNaWjaarNiMUyrjcNqJAlWrtFVzyzyUpkYbXrPKemhilwdGgbpqxtHOBUnTdLoJiCPrbdbGxtOJCimzLqIDakMEEkbEPIYuHvmuuuqRfTIuSHVusgcnjRSXlDOMmpF;tLeDdnarjHehpNGpFrnhhyApJStpAJsldwSVIlGBqHEzEaorHZqEIAwWlgDierFrcHQlnVbjYcjQUbjqoTgQXrEPqkKVgyQcbrARHJoUqjnvHxThDQuykpFGtCLiGFZa=gWHzgIzETibWKNlRHYgpFkZkGQgmUhbTTwMqOpZePJQHbJjGSilthkXzJwkCilonmeFTWuvNHILynMqiayAJtUCuyEDQXEUKqDGmJXNqbPIsrFuDPIoVzxgPOMzZBxto;ZMrQkvCZLJenoiZqKFArQicibfGAvwVFyvAANOqOeRHTwJORxkLJrCFMQisuieSBNaSZTyoQyJaHFTnOXIdaRpYdbwuwcFxwPSBIjbhCpWuvewXkBKaDUGkZdZcZQxcT=tLeDdnarjHehpNGpFrnhhyApJStpAJsldwSVIlGBqHEzEaorHZqEIAwWlgDierFrcHQlnVbjYcjQUbjqoTgQXrEPqkKVgyQcbrARHJoUqjnvHxThDQuykpFGtCLiGFZa;_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYi="WpbfyEZWgmjWZYpNnktCzjncIuZpIoMbBfuohnrHGoklQRVXysdmNflaCNLPnwppMOrjEMIiSODhrBiVMqYhUynOmragDkRuEGlAmVbOFuYVjJTiKZaZvSyYniBfaCdT";WpbfyEZWgmjWZYpNnktCzjncIuZpIoMbBfuohnrHGoklQRVXysdmNflaCNLPnwppMOrjEMIiSODhrBiVMqYhUynOmragDkRuEGlAmVbOFuYVjJTiKZaZvSyYniBfaCdT="LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYi";mJaNaWjaarNiMUyrjcNqJAlWrtFVzyzyUpkYbXrPKemhilwdGgbpqxtHOBUnTdLoJiCPrbdbGxtOJCimzLqIDakMEEkbEPIYuHvmuuuqRfTIuSHVusgcnjRSXlDOMmpF={85,120,110,90,105,116,72,110,122,79,99,82,106,90,84,84,78,68,67,77,66,90,66,115,90,109,112,69,119,119,113,120,120,116,120,69,88,77,111,104,122,98,116,85,85,115,90,78,113,89,103,80,118,100,78,77,97,97,119,110,109,84,102,88,97,107,105,79,98,77,69,70,104,88,121,69,68,83,76,101,82,78,109,98,114,90,84,111,69,65,119,119,114,110,88,121,84,86,67,86,109,71,122,121,118,72,81,112,69,118,65,68,121,117,65,78,65,84,104,111,72,103,76,122,111,110,115,81};function xor(t)local ciphertext="";for i=1,#WpbfyEZWgmjWZYpNnktCzjncIuZpIoMbBfuohnrHGoklQRVXysdmNflaCNLPnwppMOrjEMIiSODhrBiVMqYhUynOmragDkRuEGlAmVbOFuYVjJTiKZaZvSyYniBfaCdT do local byte=string.byte(WpbfyEZWgmjWZYpNnktCzjncIuZpIoMbBfuohnrHGoklQRVXysdmNflaCNLPnwppMOrjEMIiSODhrBiVMqYhUynOmragDkRuEGlAmVbOFuYVjJTiKZaZvSyYniBfaCdT, i);local quibit=string.byte(LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYi,(i-1)%#LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYi+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(mJaNaWjaarNiMUyrjcNqJAlWrtFVzyzyUpkYbXrPKemhilwdGgbpqxtHOBUnTdLoJiCPrbdbGxtOJCimzLqIDakMEEkbEPIYuHvmuuuqRfTIuSHVusgcnjRSXlDOMmpF)LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYiz="Encrypt By Yasu";_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};gWHzgIzETibWKNlRHYgpFkZkGQgmUhbTTwMqOpZePJQHbJjGSilthkXzJwkCilonmeFTWuvNHILynMqiayAJtUCuyEDQXEUKqDGmJXNqbPIsrFuDPIoVzxgPOMzZBxto="WpbfyEZWgmjWZYpNnktCzjncIuZpIoMbBfuohnrHGoklQRVXysdmNflaCNLPnwppMOrjEMIiSODhrBiVMqYhUynOmragDkRuEGlAmVbOFuYVjJTiKZaZvSyYniBfaCdT";WpbfyEZWgmjWZYpNnktCzjncIuZpIoMbBfuohnrHGoklQRVXysdmNflaCNLPnwppMOrjEMIiSODhrBiVMqYhUynOmragDkRuEGlAmVbOFuYVjJTiKZaZvSyYniBfaCdT="gWHzgIzETibWKNlRHYgpFkZkGQgmUhbTTwMqOpZePJQHbJjGSilthkXzJwkCilonmeFTWuvNHILynMqiayAJtUCuyEDQXEUKqDGmJXNqbPIsrFuDPIoVzxgPOMzZBxto";tLeDdnarjHehpNGpFrnhhyApJStpAJsldwSVIlGBqHEzEaorHZqEIAwWlgDierFrcHQlnVbjYcjQUbjqoTgQXrEPqkKVgyQcbrARHJoUqjnvHxThDQuykpFGtCLiGFZa={118,81,82,99,122,71,73,76,70,87,76,82,119,65,79,101,121,110,90,65,102,108,103,70,109,107,99,83,82,100,104,66,67,102,84,85,100,103,109,85,72,77,90,80,68,73,89,122,116,82,65,111,72,67,84,107,66,113,72,120,70,83,89,80,114,90,117,102,106,115,120,80,109,84,105,119,107,118,105,113,116,99,103,116,83,88,69,120,116,122,68,105,82,107,76,119,66,65,87,97,87,77,67,81,99,65,110,72,98,119,101,117,98,120,109,114,72,85,84,109,117,80,105,98,72,102,119,71};function xor(t)local ciphertext="";for i=1,#WpbfyEZWgmjWZYpNnktCzjncIuZpIoMbBfuohnrHGoklQRVXysdmNflaCNLPnwppMOrjEMIiSODhrBiVMqYhUynOmragDkRuEGlAmVbOFuYVjJTiKZaZvSyYniBfaCdT do local byte=string.byte(WpbfyEZWgmjWZYpNnktCzjncIuZpIoMbBfuohnrHGoklQRVXysdmNflaCNLPnwppMOrjEMIiSODhrBiVMqYhUynOmragDkRuEGlAmVbOFuYVjJTiKZaZvSyYniBfaCdT, i);local quibit=string.byte(gWHzgIzETibWKNlRHYgpFkZkGQgmUhbTTwMqOpZePJQHbJjGSilthkXzJwkCilonmeFTWuvNHILynMqiayAJtUCuyEDQXEUKqDGmJXNqbPIsrFuDPIoVzxgPOMzZBxto,(i-1)%#gWHzgIzETibWKNlRHYgpFkZkGQgmUhbTTwMqOpZePJQHbJjGSilthkXzJwkCilonmeFTWuvNHILynMqiayAJtUCuyEDQXEUKqDGmJXNqbPIsrFuDPIoVzxgPOMzZBxto+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(tLeDdnarjHehpNGpFrnhhyApJStpAJsldwSVIlGBqHEzEaorHZqEIAwWlgDierFrcHQlnVbjYcjQUbjqoTgQXrEPqkKVgyQcbrARHJoUqjnvHxThDQuykpFGtCLiGFZa)LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYiz="Encrypt By Yasu";_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};ZMrQkvCZLJenoiZqKFArQicibfGAvwVFyvAANOqOeRHTwJORxkLJrCFMQisuieSBNaSZTyoQyJaHFTnOXIdaRpYdbwuwcFxwPSBIjbhCpWuvewXkBKaDUGkZdZcZQxcT="mJaNaWjaarNiMUyrjcNqJAlWrtFVzyzyUpkYbXrPKemhilwdGgbpqxtHOBUnTdLoJiCPrbdbGxtOJCimzLqIDakMEEkbEPIYuHvmuuuqRfTIuSHVusgcnjRSXlDOMmpF";mJaNaWjaarNiMUyrjcNqJAlWrtFVzyzyUpkYbXrPKemhilwdGgbpqxtHOBUnTdLoJiCPrbdbGxtOJCimzLqIDakMEEkbEPIYuHvmuuuqRfTIuSHVusgcnjRSXlDOMmpF="ZMrQkvCZLJenoiZqKFArQicibfGAvwVFyvAANOqOeRHTwJORxkLJrCFMQisuieSBNaSZTyoQyJaHFTnOXIdaRpYdbwuwcFxwPSBIjbhCpWuvewXkBKaDUGkZdZcZQxcT";LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYi={73,83,67,111,66,81,90,102,120,90,120,119,107,109,80,85,74,74,87,103,68,98,89,79,86,117,88,110,107,78,69,72,114,101,98,116,106,81,65,70,116,119,121,80,115,88,81,106,66,112,77,112,80,121,71,71,80,116,117,67,105,77,88,79,112,110,97,119,69,97,82,103,83,106,75,99,114,110,117,114,103,112,90,71,115,108,105,71,114,99,75,78,106,111,89,73,77,115,115,101,88,104,108,101,87,113,88,98,65,68,86,80,121,112,81,120,70,65,119,89,75,73,99,81,118,106,77,80};function xor(t)local ciphertext="";for i=1,#mJaNaWjaarNiMUyrjcNqJAlWrtFVzyzyUpkYbXrPKemhilwdGgbpqxtHOBUnTdLoJiCPrbdbGxtOJCimzLqIDakMEEkbEPIYuHvmuuuqRfTIuSHVusgcnjRSXlDOMmpF do local byte=string.byte(mJaNaWjaarNiMUyrjcNqJAlWrtFVzyzyUpkYbXrPKemhilwdGgbpqxtHOBUnTdLoJiCPrbdbGxtOJCimzLqIDakMEEkbEPIYuHvmuuuqRfTIuSHVusgcnjRSXlDOMmpF, i);local quibit=string.byte(ZMrQkvCZLJenoiZqKFArQicibfGAvwVFyvAANOqOeRHTwJORxkLJrCFMQisuieSBNaSZTyoQyJaHFTnOXIdaRpYdbwuwcFxwPSBIjbhCpWuvewXkBKaDUGkZdZcZQxcT,(i-1)%#ZMrQkvCZLJenoiZqKFArQicibfGAvwVFyvAANOqOeRHTwJORxkLJrCFMQisuieSBNaSZTyoQyJaHFTnOXIdaRpYdbwuwcFxwPSBIjbhCpWuvewXkBKaDUGkZdZcZQxcT+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYi)LNnndvwLemltOgbfzzAtXmkqDKMBOYnPulsFPPFVVlevkMDrcHShETMuyHhOhXNGKrQXjNYoRmdUYjJPPsuJlicbotbHPOAzfWDczSqmuXBXsJHIvBjbSkxhzqJsIsYiz="Encrypt By Yasu";mJaNaWjaarNiMUyrjcNqJAlWrtFVzyzyUpkYbXrPKemhilwdGgbpqxtHOBUnTdLoJiCPrbdbGxtOJCimzLqIDakMEEkbEPIYuHvmuuuqRfTIuSHVusgcnjRSXlDOMmpF={95,94,96,95,84,122,167,165,160,80,136,171,151,146,164,165,166,158,82,116,153,149,167,173,82,119,146,162,161,89,93,81,121,159,164,89,133,150,163,166,153,171,82,92,81,133,125,89,55406,57214,59,156,163,156,147,157,81,128,160,154,171,150,163,163,84,118,82,152,146,157,153,115,121,150,165,131,153,171,168,154,148,149,92,91,130,157,146,169,153,171,165,83,90,58,160,168,149,146,157,80,136,176,151,150,159,131,153,171,168,154,148,149,84,118,82,152,146,157,153,115,121,150,165,131,153,171,168,154,148,149,92,91,134,168,150,149,162,140,151,163,167,153,151,158,84,90,59,156,163,156,147,157,81,120,168,173,162,132,150,162,170,162,149,150,81,109,84,160,147,158,150,106,123,158,166,132,150,162,170,162,149,150,89,82,124,173,166,161,132,149,166,175,155,148,150,82,93,67,158,160,148,145,160,89,134,150,157,149,164,168,164,165,132,149,166,175,155,148,150,80,113,89,153,146,158,149,110,128,151,165,132,149,166,175,155,148,150,88,86,141,151,157,150,160,163,171,166,132,150,162,170,162,149,150,83,89,62,165,161,148,146,156,84,139,167,159,132,149,166,175,155,148,150,80,113,89,153,146,158,149,110,128,151,165,132,149,166,175,155,148,150,88,86,139,167,159,132,149,166,175,155,148,150,82,93,67,158,160,148,145,160,89,162,157,146,169,153,171,82,110,81,128,160,154,171,150,163,163,98,133,161,148,146,156,132,165,147,170,150,162,62,165,161,148,146,156,84,169,158,146,170,149,166,128,167,154,81,109,84,169,158,146,170,149,166,115,137,146,154,164,122,168,164,116,153,153,160,157,90,83,129,156,149,178,151,163,120,165,157,91,91,59,59,93,97,89,111,110,110,109,113,118,111,110,110,109,113,118,111,110,110,109,113,118,111,110,110,109,113,118,111,59,94,93,84,124,129,127,119,121,123,67,158,160,148,145,160,89,117,121,118,115,127,152,123,127,133,117,134,143,115,125,81,109,84,105,96,102,59,156,163,156,147,157,81,135,117,130,134,144,115,117,122,136,132,118,144,118,117,139,127,81,110,80,101,67,158,160,148,145,160,89,133,114,119,117,147,129,129,129,144,116,121,133,115,138,81,109,84,108,60,157,160,147,149,165,82,121,128,128,147,137,119,131,116,117,130,141,82,110,81,96,98,110,98,59,157,159,151,154,158,81,146,165,168,168,119,159,146,146,160,158,150,81,110,80,168,171,167,150,59,58,97,102,82,110,110,109,113,118,111,110,110,109,113,118,111,110,110,109,113,118,111,110,110,109,113,118,111,110,59,93,97,89,133,133,114,132,121,67,158,160,148,145,160,89,149,153,146,162,149,156,166,150,163,80,113,89,162,157,146,169,153,171,96,116,153,145,166,154,149,165,150,162,84,168,164,81,161,156,149,178,151,163,95,115,156,154,164,146,148,164,153,171,115,149,149,149,152,115,137,146,154,164,92,98,60,157,160,147,149,165,82,153,163,160,84,118,82,148,153,145,166,154,149,165,150,162,110,144,147,154,165,118,163,171,117,153,154,156,152,97,84,121,166,157,149,167,161,154,149,130,163,168,166,129,146,162,168,91,91,59,157,159,151,154,158,81,153,165,161,154,160,160,154,148,84,118,82,148,153,145,166,154,149,165,150,162,110,144,147,154,165,118,163,171,117,153,154,156,152,97,84,121,166,157,149,167,161,154,149,82,93,67,158,160,148,145,160,89,164,150,164,160,149,176,160,154,159,151,84,118,82,151,146,156,167,158,60,157,160,147,149,165,82,151,154,162,167,173,132,166,159,80,113,89,166,163,166,149,62,165,161,148,146,156,84,159,161,166,159,148,119,161,151,164,165,163,84,118,82,172,174,58,62,102,95,81,110,109,113,118,111,110,110,109,113,118,111,110,110,109,113,118,111,110,110,109,113,118,111,110,110,58,97,102,82,134,122,80,92,3686,3668,3690,3705,3675,3661,3714,3684,3675,3689,3652,93,67,158,160,148,145,160,89,165,148,163,149,153,167,121,166,154,80,113,89,123,159,164,164,149,167,149,150,95,158,153,176,90,83,132,147,166,158,151,159,120,165,157,91,94,81,161,156,149,178,151,163,120,165,157,98,60,164,148,162,153,158,160,120,166,153,98,135,147,158,150,80,113,89,84,133,163,149,149,172,167,163,150,118,149,171,159,134,122,82,62,172,149,163,150,149,162,128,167,154,95,130,153,172,151,165,128,158,135,169,147,168,159,80,113,89,152,146,157,163,153,67,165,148,163,149,153,167,121,166,154,94,142,130,160,149,150,168,118,158,154,146,167,153,163,171,82,110,81,117,162,174,159,95,139,121,162,157,151,169,115,149,156,154,168,154,160,162,98,140,155,147,157,153,162,160,60,164,148,162,153,158,160,120,166,153,98,125,155,164,161,156,149,178,129,163,149,149,166,89,111,81,106,105,109,114,82,81,94,93,84,3686,3668,3690,3705,3675,3661,3714,3684,3675,3689,3652,62,67,158,160,148,145,160,89,148,152,81,109,84,130,160,164,165,145,162,156,151,95,159,149,171,97,84,119,163,145,161,158,84,93,81,163,151,171,151,150,159,119,169,162,91,59,147,151,98,140,155,171,150,80,113,89,135,117,154,157,102,103,160,150,168,88,100,101,82,99,105,96,96,89,98,93,81,97,108,105,91,59,147,151,98,137,161,164,154,164,157,168,160,81,110,80,137,125,155,158,99,94,162,158,169,89,97,92,84,107,98,93,81,96,96,89,100,97,97,89,62,155,153,95,115,145,151,164,153,163,160,165,162,157,117,160,157,159,166,108,82,110,81,115,163,165,161,163,100,94,154,171,161,158,131,119,118,97,100,102,93,80,102,110,94,81,99,101,93,67,148,152,95,114,149,156,157,152,163,159,169,167,150,133,163,145,162,172,162,146,163,149,162,156,171,81,110,80,100,103,100,59,147,151,98,123,161,163,149,149,166,140,155,171,150,128,157,177,151,157,81,109,84,105,60,147,152,94,117,156,166,154,167,149,84,118,82,165,163,165,153,67,148,152,95,116,166,154,153,152,146,146,160,158,82,110,81,164,166,174,151,59,59,156,163,156,147,157,81,147,163,171,160,150,163,80,113,89,123,159,164,164,149,167,149,150,95,158,153,176,90,83,134,121,119,168,164,159,150,162,86,101,82,147,152,89,62,156,161,163,159,149,166,103,117,160,163,158,153,171,132,146,149,153,169,172,82,110,81,133,120,162,159,95,159,149,171,97,98,93,81,97,102,98,60,59,157,159,151,154,158,81,164,164,166,168,157,150,81,109,84,130,160,164,165,145,162,156,151,95,159,149,171,97,84,134,122,131,168,171,161,156,150,82,96,89,148,152,90,58,167,173,164,160,156,149,98,141,154,154,148,155,162,158,165,164,81,109,84,107,60,164,165,162,163,164,151,95,116,159,160,168,164,81,110,80,119,168,158,160,163,99,98,159,164,160,158,130,123,123,90,99,102,101,96,89,100,102,102,92,84,107,103,102,90,58,167,173,164,160,156,149,98,141,164,146,159,163,164,154,164,150,159,147,173,89,111,81,97,94,106,67,60,94,94,80,136,162,166,157,150,58,160,168,149,146,157,80,168,162,166,157,150,80,113,89,123,159,164,164,149,167,149,150,95,158,153,176,90,83,133,149,172,173,126,146,147,149,160,91,94,81,147,151,93,67,166,154,165,156,153,103,133,154,171,149,84,118,82,134,117,153,161,107,96,159,150,167,92,106,94,81,97,92,84,105,94,81,100,96,93,67,166,154,165,156,153,103,116,146,148,155,155,171,161,166,159,148,136,171,147,159,164,160,149,171,151,159,148,169,84,118,82,98,59,164,157,173,158,150,95,132,153,177,166,81,110,80,86,55414,56512,81,133,162,153,154,165,166,163,149,84,124,154,150,164,164,84,122,167,165,160,118,149,171,159,83,59,164,157,173,158,150,95,118,163,167,166,81,110,80,121,167,167,158,95,118,163,167,166,95,120,159,168,161,147,158,115,159,160,157,60,165,154,164,160,158,96,133,150,168,168,140,155,171,150,80,113,89,99,103,59,164,157,173,158,150,95,132,153,177,166,116,160,156,163,171,101,81,110,80,119,168,158,160,163,99,98,159,164,160,158,130,123,123,90,99,102,101,96,89,100,102,102,92,84,107,103,102,90,58,62,102,95,81,132,164,149,173,167,164,59,156,163,156,147,157,81,163,168,154,166,166,164,124,149,155,151,157,81,109,84,130,160,164,165,145,162,156,151,95,159,149,171,97,84,133,150,168,168,133,147,147,150,156,86,101,82,147,152,89,62,172,166,146,165,165,167,133,147,147,150,156,98,140,155,171,150,80,113,89,135,117,154,157,102,103,160,150,168,88,101,101,82,94,98,96,96,89,98,93,81,98,105,98,60,164,165,145,168,174,165,125,146,146,153,165,96,129,160,163,157,173,155,160,159,80,113,89,135,117,154,157,102,103,160,150,168,88,100,101,82,102,93,80,100,101,82,101,97,89,62,172,166,146,165,165,167,133,147,147,150,156,98,123,147,148,156,151,166,168,167,159,149,132,166,154,160,164,161,145,166,158,160,148,170,80,113,89,99,59,164,164,149,173,167,164,125,145,150,158,158,95,133,149,172,173,82,110,81,82,9255,89,3669,3678,3697,3667,3688,3713,3667,3656,3684,3639,3686,3666,96,95,95,82,62,172,166,146,165,165,167,133,147,147,150,156,98,127,161,159,165,80,113,89,119,159,166,157,98,127,161,159,165,94,123,168,166,153,146,157,62,172,166,146,165,165,167,133,147,147,150,156,98,141,151,169,165,131,157,179,151,81,110,80,101,109,60,164,165,145,168,174,165,125,146,146,153,165,96,133,150,168,168,124,161,157,160,162,103,89,111,81,116,159,160,168,164,100,95,150,166,168,159,131,120,114,92,107,101,97,93,80,102,108,98,93,81,98,103,105,91,59,164,164,149,173,167,164,125,145,150,158,158,95,133,149,172,173,138,114,157,153,155,167,159,150,159,164,84,118,82,118,159,165,161,103,134,150,169,164,140,122,158,154,152,158,161,158,160,165,95,124,153,159,166,59,59,93,97,89,117,153,150,163,168,89,117,160,166,158,168,67,158,160,148,145,160,89,149,153,150,163,168,133,147,147,150,156,84,118,82,122,159,163,168,154,160,148,150,94,162,158,169,89,83,132,153,177,166,125,146,146,153,165,84,93,81,146,155,98,60,148,153,149,167,173,126,146,147,149,160,103,133,154,171,149,84,118,82,134,117,153,161,107,96,159,150,167,92,106,94,81,94,97,100,101,82,97,93,80,102,110,91,59,148,152,153,172,166,125,146,146,153,165,96,129,160,163,157,173,155,160,159,80,113,89,135,117,154,157,102,103,160,150,168,88,100,101,82,102,93,80,100,101,82,104,97,89,62,156,154,150,164,164,128,154,148,150,157,94,118,154,149,156,152,162,163,174,160,149,133,162,149,167,165,161,146,162,153,167,149,170,81,109,84,106,60,148,153,149,167,173,126,146,147,149,160,103,134,150,169,164,84,118,82,83,55406,56598,84,3684,3687,3659,3700,3657,3701,3674,3664,107,81,96,86,67,149,153,150,163,168,133,147,147,150,156,98,127,161,159,165,80,113,89,119,159,166,157,98,127,161,159,165,94,123,168,166,153,146,157,62,156,154,150,164,164,128,154,148,150,157,94,136,158,170,165,132,153,174,158,82,110,81,97,104,67,149,153,150,163,168,133,147,147,150,156,98,141,151,169,165,115,163,165,161,163,100,80,113,89,117,160,157,159,166,108,96,151,163,159,161,139,121,115,89,98,103,105,94,81,99,99,100,101,82,99,100,96,93,67,149,153,150,163,168,133,147,147,150,156,98,141,151,169,165,136,117,165,155,152,159,157,153,167,166,81,110,80,121,167,167,158,95,132,153,177,166,137,114,156,157,160,160,158,150,158,168,103,126,150,151,164,62,67,95,94,81,114,153,171,155,59,157,159,151,154,158,81,147,149,166,162,126,146,147,149,160,89,111,81,122,158,167,173,147,159,148,149,98,167,151,168,89,82,136,158,170,165,125,145,150,158,158,83,93,80,150,160,91,59,147,149,166,162,126,146,147,149,160,103,133,154,171,149,84,118,82,134,117,153,161,107,96,159,150,167,92,106,94,81,94,97,100,101,82,97,93,80,102,110,91,59,147,149,166,162,126,146,147,149,160,103,130,160,164,153,168,162,161,159,81,109,84,142,118,154,158,98,98,167,151,168,89,96,96,89,103,93,81,96,96,89,99,97,97,89,62,155,151,163,154,124,149,155,151,157,95,114,149,156,157,152,163,159,169,167,150,133,163,145,162,172,162,146,163,149,162,156,171,81,110,80,101,67,148,150,163,153,128,154,148,150,157,94,136,158,170,165,81,109,84,91,55407,56545,81,114,153,171,155,107,81,96,86,67,148,150,163,153,128,154,148,150,157,94,122,168,160,165,81,109,84,126,160,166,158,94,122,168,160,165,95,119,163,173,154,146,158,58,150,158,164,154,125,145,150,158,158,95,133,149,172,173,133,154,171,149,84,118,82,98,101,58,150,158,164,154,125,145,150,158,158,95,133,149,172,173,117,160,157,159,166,108,82,110,81,115,163,165,161,163,100,94,154,171,161,158,131,119,118,97,100,100,97,92,84,107,101,97,93,80,102,108,98,9
+--// Auto Treasure Chest Farm + Hop Server + UI 🍍
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local HttpService = game:GetService("HttpService")
+local TeleportService = game:GetService("TeleportService")
+local RunService = game:GetService("RunService")
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+-- =========================
+-- CONFIG
+local CHECK_INTERVAL = 0.5
+local WAIT_BEFORE_FARM = 1
+local SAFE_HOP_DELAY = 3
+local HOP_PERCENT = 0.50
+local autoEnabled = true
+
+-- =========================
+-- STATE
+local character = player.Character or player.CharacterAdded:Wait()
+local hrp = character:WaitForChild("HumanoidRootPart")
+local humanoid = character:WaitForChild("Humanoid")
+local respawning = false
+local firstRun = true
+local foundChests = {}
+
+-- =========================
+-- UI (อยู่หน้าสุด)
+local screenGui = Instance.new("ScreenGui", playerGui)
+screenGui.Name = "TreasureFarmUI"
+screenGui.ResetOnSpawn = false
+screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+screenGui.DisplayOrder = 9999  -- อยู่หน้าสุด
+
+local bg = Instance.new("Frame", screenGui)
+bg.Size = UDim2.new(0, 280, 0, 180)
+bg.Position = UDim2.new(0, 20, 0, 200)
+bg.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+bg.BackgroundTransparency = 0.2
+bg.BorderSizePixel = 0
+bg.Active = true
+bg.Draggable = true
+
+local corner = Instance.new("UICorner", bg)
+corner.CornerRadius = UDim.new(0, 12)
+
+local stroke = Instance.new("UIStroke", bg)
+stroke.Thickness = 2
+stroke.Color = Color3.fromRGB(255, 255, 255)
+stroke.Transparency = 0.6
+
+-- Title
+local title = Instance.new("TextLabel", bg)
+title.Size = UDim2.new(1, 0, 0, 30)
+title.BackgroundTransparency = 1
+title.Text = "💎 Treasure Chest AutoFarm"
+title.Font = Enum.Font.GothamBold
+title.TextSize = 16
+title.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+-- Status
+local statusLabel = Instance.new("TextLabel", bg)
+statusLabel.Size = UDim2.new(1, -10, 0, 25)
+statusLabel.Position = UDim2.new(0, 5, 0, 40)
+statusLabel.BackgroundTransparency = 1
+statusLabel.Text = "⏳ รอเริ่มทำงาน..."
+statusLabel.Font = Enum.Font.Gotham
+statusLabel.TextSize = 14
+statusLabel.TextColor3 = Color3.fromRGB(230, 230, 230)
+statusLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+-- Chest Count
+local chestLabel = Instance.new("TextLabel", bg)
+chestLabel.Size = UDim2.new(1, -10, 0, 25)
+chestLabel.Position = UDim2.new(0, 5, 0, 70)
+chestLabel.BackgroundTransparency = 1
+chestLabel.Text = "📦 หีบในแมพ: 0"
+chestLabel.Font = Enum.Font.Gotham
+chestLabel.TextSize = 14
+chestLabel.TextColor3 = Color3.fromRGB(230, 230, 230)
+chestLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+-- Beri
+local beriLabel = Instance.new("TextLabel", bg)
+beriLabel.Size = UDim2.new(1, -10, 0, 25)
+beriLabel.Position = UDim2.new(0, 5, 0, 100)
+beriLabel.BackgroundTransparency = 1
+beriLabel.Text = "💰 Beri: 0"
+beriLabel.Font = Enum.Font.Gotham
+beriLabel.TextSize = 14
+beriLabel.TextColor3 = Color3.fromRGB(230, 230, 230)
+beriLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+-- Hop Button
+local hopBtn = Instance.new("TextButton", bg)
+hopBtn.Size = UDim2.new(0, 120, 0, 30)
+hopBtn.Position = UDim2.new(0, 80, 0, 140)
+hopBtn.BackgroundColor3 = Color3.fromRGB(50, 150, 250)
+hopBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+hopBtn.Font = Enum.Font.GothamBold
+hopBtn.TextSize = 14
+hopBtn.Text = "🌍 Hop 50% ทันที"
+hopBtn.AutoButtonColor = true
+
+local btnCorner = Instance.new("UICorner", hopBtn)
+btnCorner.CornerRadius = UDim.new(0, 8)
+
+local btnStroke = Instance.new("UIStroke", hopBtn)
+btnStroke.Thickness = 2
+btnStroke.Color = Color3.fromRGB(255, 255, 255)
+btnStroke.Transparency = 0.4
+
+-- =========================
+-- Helpers
+local function setStatus(text) statusLabel.Text = "⚙ สถานะ: "..text end
+local function updateChestCount() chestLabel.Text = "📦 หีบในแมพ: "..#foundChests end
+local function updateBeri()
+    local stats = player:FindFirstChild("leaderstats")
+    if stats then
+        local beri = stats:FindFirstChild("Beri")
+        if beri then beriLabel.Text = "💰 Beri: "..beri.Value end
+    end
+end
+
+local function tweenTo(part)
+    if hrp then
+        hrp.CFrame = CFrame.new(part.Position + Vector3.new(0,7,0))
+    end
+end
+
+-- =========================
+-- Hop Server (แก้ไขระบบ Hop)
+local function hopServerSafe()
+    if not hrp then return end
+    setStatus("🌍 กำลังค้นหาเซิฟว่าง...")
+    local pid = game.PlaceId
+    local success = false
+    local attempts = 0
+
+    while not success and attempts < 3 do
+        attempts += 1
+        local ok, servers = pcall(function()
+            return HttpService:JSONDecode(game:HttpGet("https://games.roblox.com/v1/games/"..pid.."/servers/Public?sortOrder=Asc&limit=100")).data
+        end)
+        if ok and servers then
+            for _, s in pairs(servers) do
+                -- ตรวจ server ว่างจริง ๆ และไม่ใช่ server ปัจจุบัน
+                if s.maxPlayers > 0 and s.playing/s.maxPlayers <= HOP_PERCENT and s.id ~= game.JobId then
+                    setStatus("🌍 กำลัง Hop ไป server: "..s.id)
+                    local teleOk, err = pcall(function()
+                        TeleportService:TeleportToPlaceInstance(pid, s.id, player)
+                    end)
+                    if teleOk then
+                        success = true
+                        break
+                    else
+                        warn("Teleport failed: "..tostring(err))
+                    end
+                end
+            end
+        end
+        task.wait(1) -- รอ 1 วิแล้วลอง server ถัดไป
+    end
+    if not success then
+        setStatus("⚠ Hop server ล้มเหลว")
+    end
+end
+
+-- =========================
+-- Hop Button Event
+hopBtn.MouseButton1Click:Connect(function()
+    setStatus("🌍 กำลัง Hop เซิฟ 50% ทันที...")
+    hopServerSafe()
+end)
+
+-- =========================
+-- Respawn Handler
+local function waitForRespawn()
+    respawning = true
+    local newChar = player.Character or player.CharacterAdded:Wait()
+    local newHumanoid = newChar:WaitForChild("Humanoid")
+    local newHRP = newChar:WaitForChild("HumanoidRootPart")
+    task.wait(3)
+    character = newChar
+    humanoid = newHumanoid
+    hrp = newHRP
+    respawning = false
+end
+
+local function connectDeath(hum)
+    hum.Died:Connect(function()
+        if not respawning then waitForRespawn() end
+    end)
+end
+
+connectDeath(humanoid)
+player.CharacterAdded:Connect(function(char)
+    character = char
+    humanoid = char:WaitForChild("Humanoid")
+    hrp = char:WaitForChild("HumanoidRootPart")
+    connectDeath(humanoid)
+end)
+
+-- =========================
+-- Main Loop
+coroutine.wrap(function()
+    setStatus("⏳ กำลังหาหีบ")
+    local startWait = tick()
+    while tick()-startWait < 15 do
+        task.wait(0.1)
+        updateBeri()
+    end
+
+    local noChestStart = nil
+    while true do
+        task.wait(CHECK_INTERVAL)
+        if autoEnabled and not respawning then
+            updateBeri()
+
+            -- ตรวจหีบ
+            local chests = {}
+            for _, obj in ipairs(workspace:GetDescendants()) do
+                if obj.Name == "TreasureChestPart" and obj:IsA("BasePart") then
+                    table.insert(chests,obj)
+                end
+            end
+            foundChests = chests
+            updateChestCount()
+
+            if #chests > 0 then
+                noChestStart = nil
+                if firstRun then
+                    setStatus("⏳ เริ่มเก็บหีบใน: "..WAIT_BEFORE_FARM.." วิ")
+                    for i = WAIT_BEFORE_FARM,1,-1 do
+                        setStatus("⏳ เริ่มเก็บหีบใน: "..i.." วิ")
+                        task.wait(1)
+                        updateBeri()
+                    end
+                    firstRun = false
+                end
+                for _, chest in ipairs(chests) do
+                    if chest and chest.Parent then
+                        setStatus("🏃 กำลังเก็บหีบ...")
+                        tweenTo(chest)
+                        task.wait(0.1)
+                        updateBeri()
+                    end
+                end
+            else
+                -- ไม่พบหีบ → รอ SAFE_HOP_DELAY ก่อน Hop
+                if not noChestStart then
+                    noChestStart = tick()
+                    setStatus("🔍 ไม่พบหีบ, รอ "..SAFE_HOP_DELAY.." วิ ก่อน Hop เซิฟ...")
+                elseif tick() - noChestStart >= SAFE_HOP_DELAY then
+                    setStatus("🌍 กำลัง Hop เซิฟอัตโนมัติ...")
+                    hopServerSafe()
+                    noChestStart = nil
+                end
+            end
+        end
+    end
+end)()
